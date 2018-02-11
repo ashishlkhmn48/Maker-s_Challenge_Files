@@ -73,5 +73,5 @@ if($temp == 0){
     echo "You Have Already Reached Max Limit for $productName";
 }
 		
-//mysqli_query($conn, "UNLOCK TABLES");
+mysqli_query($conn, "UNLOCK TABLES");
 ?>
