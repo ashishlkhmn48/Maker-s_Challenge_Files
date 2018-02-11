@@ -17,7 +17,11 @@ Concurrency control protocols can be broadly divided into two categories −
 </ul>
 
 <h1>MYSQL Database Structure</h1>
+<h4>Tables info</h4>
 <img src = "db_structure_1.png" width = "1000">
+<h4>Bill Table</h4>
 <img src = "db_structure_2.png" width = "1000">
+<h4>Use Info Table</h4>
 <img src = "db_structure_3.png" width = "1000">
+<h4>Products Table</h4>
 <img src = "db_structure_4.png" width = "1000">
